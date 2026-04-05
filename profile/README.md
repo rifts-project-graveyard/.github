@@ -8,3 +8,8 @@ This organization is a personal archive for my **dead, abandoned, or obsolete pr
 Everything here is preserved for memory, nostalgia, or as a reminder of where I’ve been, not where I’m going.  
 
 Feel free to browse, but don’t expect updates or support. These projects are buried, not maintained.  
+
+___
+
+## Credits
+Organization's profile picture - <a href="https://www.flaticon.com/free-icons/grave" title="grave icons">Grave icons created by Freepik - Flaticon</a>
